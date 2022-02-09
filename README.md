@@ -36,4 +36,4 @@
 
 <br />
 
-![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/ev4ndropc/omBratteng/github-metrics/github-metrics.svg)
