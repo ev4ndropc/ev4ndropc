@@ -35,5 +35,3 @@
 ## I am Evandro Pinheiro
 
 <br />
-
-![Metrics](https://raw.githubusercontent.com/ev4ndropc/omBratteng/github-metrics/github-metrics.svg)
