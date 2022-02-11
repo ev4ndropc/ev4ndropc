@@ -19,7 +19,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/73b359c854cc4f328702558155584bb2.png?r=5wd"
+      src="https://api.daily.dev/devcards/73b359c854cc4f328702558155584bb2.png?r=1wu"
     />
   </a>
 
